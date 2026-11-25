@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="52" viewBox="0 0 232 52" role="img" aria-label="Add to Chrome Web Store">
+  <title>Add to Chrome Web Store</title>
+  <rect x="2" y="2" width="228" height="48" rx="14" fill="#1a1b27" stroke="#7aa2f7" stroke-width="1.5"/>
+  <rect x="2" y="2" width="228" height="48" rx="14" fill="#7aa2f7" fill-opacity="0.08"/>
+  <g transform="translate(20 13) scale(1.1)" fill="#7aa2f7">
+    <path d="M12 0C8.21 0 4.831 1.757 2.632 4.501l3.953 6.848A5.454 5.454 0 0 1 12 6.545h10.691A12 12 0 0 0 12 0zM1.931 5.47A11.943 11.943 0 0 0 0 12c0 6.012 4.42 10.991 10.189 11.864l3.953-6.847a5.45 5.45 0 0 1-6.865-2.29zm13.342 2.166a5.446 5.446 0 0 1 1.45 7.09l.002.001h-.002l-5.344 9.257c.206.01.413.016.621.016 6.627 0 12-5.373 12-12 0-1.54-.29-3.011-.818-4.364zM12 16.364a4.364 4.364 0 1 1 0-8.728 4.364 4.364 0 0 1 0 8.728Z"/>
+  </g>
+  <text x="58" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.2" fill="#565f89">ADD TO</text>
+  <text x="58" y="39" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#c0caf5">Chrome Web Store</text>
+  <text x="206" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#7aa2f7">↗</text>
+</svg>
